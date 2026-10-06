@@ -1,0 +1,6 @@
+{
+  "name": "WARP macOS",
+  "description": "macOS & iOS styled Cloudflare WARP VPN with protocol switcher, Anycast endpoint optimizer, and real VPN service.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
